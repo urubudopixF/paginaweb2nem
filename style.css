@@ -11,4 +11,5 @@
 
 .images.png{
     width: 0 10px;
+    align-items: first baseline;
 }
