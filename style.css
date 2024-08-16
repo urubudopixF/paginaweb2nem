@@ -8,3 +8,7 @@
   body{
       background-color: var(--cor-de-fundo);
 }
+
+.images.png{
+    width: 0 10px;
+}
